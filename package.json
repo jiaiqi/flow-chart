@@ -7,10 +7,21 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "ant-design-vue": "^1.4.10",
+    "canvg": "^3.0.2",
     "core-js": "^3.4.3",
+    "html2canvas": "^1.0.0-rc.5",
+    "jquery": "^3.4.1",
+    "jquery-ui": "^1.12.1",
+    "jsdom": "^15.2.1",
+    "jsplumb": "^2.12.8",
+    "vcolorpicker": "^0.1.8",
     "vue": "^2.6.10",
+    "vue-contextmenu": "^1.5.10",
+    "vue-json-viewer": "^2.2.8",
     "vue-router": "^3.1.3",
-    "vuex": "^3.1.2"
+    "vuex": "^3.1.2",
+    "xmldom": "^0.1.27"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
