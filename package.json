@@ -13,7 +13,7 @@
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "jsplumb": "^2.12.8",
     "vcolorpicker": "^0.1.8",
     "vue": "^2.6.10",
